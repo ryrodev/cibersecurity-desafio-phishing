@@ -1,5 +1,5 @@
-# Phishing para captura de senhas do Facebook
-
+# Phishing para captura de senhas do *Twitter
+Infelizmente tive que utilizar o twitter, por algum motivo o phishing do facebook não estava capturando usuario e senha.
 ### Ferramentas
 
 - Kali Linux
@@ -14,7 +14,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.twitter.com
 
 ### Resutados
 
